@@ -4,4 +4,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/<OWNER>/<REPOSITORY>)](https://repl.it/github/<OWNER>/<REPOSITORY>)
 
-This site can be found at: [https://<OWNER>.github.io/<REPOSITORY>](https://<OWNER>.github.io/<REPOSITORY>)
+This site can be found at: [https://conor-otoole.github.io/ICS20-Unit-106-HTML-CSS/](https://conor-otoole.github.io/ICS20-Unit-106-HTML-CSS)
