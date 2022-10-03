@@ -13,9 +13,11 @@
   background: #000;
   opacity: 0.001;
 }
+
 body {
   background-color: cornflowerblue;
 }
+
 p {
   color: white;
   font-family: Helvetica, Arial, sans-serif;
